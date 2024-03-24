@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1080mm"
+   height="1080mm"
+   viewBox="0 0 1080 1080"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="Logo-FitBot.svg"
+   inkscape:export-filename="/home/raul6174/Pictures/Logo-FitBot.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.088388348"
+     inkscape:cx="3105.613"
+     inkscape:cy="2206.1731"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2" />
+  <defs
+     id="defs2">
+    <rect
+       x="8899.1336"
+       y="495.90628"
+       width="1845.3112"
+       height="478.70162"
+       id="rect3995" />
+    <linearGradient
+       id="linearGradient4419"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#008000;stop-opacity:1;"
+         offset="0"
+         id="stop4417" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo">
+    <path
+       id="rect1185"
+       style="fill:#299345;fill-opacity:1;fill-rule:evenodd;stroke:#299345;stroke-width:10;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 299.35655,350.56356 c -46.25623,0 -83.49516,37.23894 -83.49516,83.49517 v 353.63216 c 0,46.2562 37.23893,83.49464 83.49516,83.49464 h 481.2874 c 46.25623,0 83.49466,-37.23844 83.49466,-83.49464 V 434.05873 c 0,-46.25623 -37.23843,-83.49517 -83.49466,-83.49517 z m 59.73072,63.4261 h 361.82596 c 35.5932,0 64.24776,28.1655 64.24776,63.15117 v 267.46793 c 0,34.98566 -28.65456,63.15067 -64.24776,63.15067 H 359.08727 c -35.59318,0 -64.24777,-28.16501 -64.24777,-63.15067 V 477.14083 c 0,-34.98567 28.65459,-63.15117 64.24777,-63.15117 z" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#299345;stroke-width:20;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1376"
+       width="409.40494"
+       height="219.95927"
+       x="335.2977"
+       y="213.81447"
+       ry="35.276066" />
+    <rect
+       style="fill:#299345;fill-opacity:1;fill-rule:evenodd;stroke-width:0.086934"
+       id="rect1436"
+       width="121.26836"
+       height="34.327477"
+       x="479.366"
+       y="306.63037"
+       ry="17.163738" />
+    <rect
+       style="fill:#299345;fill-opacity:1;fill-rule:evenodd;stroke-width:0.086934"
+       id="rect1482"
+       width="121.26836"
+       height="34.327477"
+       x="263.15991"
+       y="-557.164"
+       ry="17.163738"
+       transform="rotate(90)" />
+    <rect
+       style="fill:#299345;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect4850"
+       width="83.211052"
+       height="209.11485"
+       x="399.23886"
+       y="503.87704"
+       rx="41.586872"
+       ry="53.996445" />
+    <rect
+       style="fill:#299345;fill-opacity:1;fill-rule:evenodd;stroke-width:0.264583"
+       id="rect5300"
+       width="83.211052"
+       height="209.11485"
+       x="597.55042"
+       y="508.75751"
+       rx="41.586872"
+       ry="53.996445" />
+    <rect
+       style="fill:#666666;fill-rule:evenodd;stroke:#000000;stroke-width:6.38247;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect831"
+       width="413.76083"
+       height="332.28534"
+       x="1538.6971"
+       y="248.92064"
+       ry="53.290409"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#000000;fill-rule:evenodd;stroke:#59ff00;stroke-width:6.38247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect833"
+       width="312.94595"
+       height="251.32237"
+       x="1589.1046"
+       y="289.40213"
+       ry="40.305935"
+       rx="41.005836"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:6.38247;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect835"
+       width="261.30136"
+       height="140.38829"
+       x="1614.9269"
+       y="161.64093"
+       ry="22.514833"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0554853"
+       id="rect837"
+       width="77.399132"
+       height="21.909399"
+       x="1706.8779"
+       y="220.88037"
+       ry="10.9547"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <rect
+       style="fill:#ff0000;fill-rule:evenodd;stroke-width:0.0554853"
+       id="rect839"
+       width="77.399132"
+       height="21.909399"
+       x="193.1355"
+       y="-1756.5323"
+       ry="10.9547"
+       transform="rotate(90)"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect841"
+       style="fill:#59ff00;fill-opacity:1;fill-rule:evenodd;stroke:#59ff00;stroke-width:1.27649;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 1682.2797,346.77235 c -14.7046,0 -26.5425,15.37068 -26.5425,34.46322 v 59.81178 c 0,-19.09253 11.8379,-34.46289 26.5425,-34.46289 h 0.024 c 14.7046,0 26.5428,15.37036 26.5428,34.46289 v -59.81178 c 0,-19.09254 -11.8382,-34.46322 -26.5428,-34.46322 z"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect843"
+       style="fill:#59ff00;fill-opacity:1;fill-rule:evenodd;stroke:#59ff00;stroke-width:1.27649;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 1808.8517,349.8872 c -14.7047,0 -26.5429,15.37068 -26.5429,34.46321 v 59.81213 c 0,-19.09255 11.8382,-34.46323 26.5429,-34.46323 h 0.024 c 14.7046,0 26.5425,15.37068 26.5425,34.46323 v -59.81213 c 0,-19.09253 -11.8379,-34.46321 -26.5425,-34.46321 z"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <path
+       id="rect1414"
+       style="fill:#f9f9f9;fill-rule:evenodd;stroke:#000000;stroke-width:1.27649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2026.9218,68.264186 c -14.7046,0 -26.5425,15.370693 -26.5425,34.463214 v 93.89042 c 0,2.08768 0.1495,4.1272 0.4208,6.11064 v 10.70936 l 0.01,75.38834 47.6294,-53.87695 3.42,-3.8685 h 346.7281 c 14.7049,0 26.5429,-15.37036 26.5429,-34.46289 V 102.7274 c 0,-19.092521 -11.838,-34.463214 -26.5429,-34.463214 z"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.4026998,0,0,0.4026998,-1531.5157,-66.526912)"
+       id="text3993"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;line-height:1.25;font-family:'Noto Sans Mono';-inkscape-font-specification:'Noto Sans Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect3995)"
+       inkscape:export-filename="/home/raul6174/Pictures/FitBot-Saying.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         x="8899.1328"
+         y="554.13826"
+         id="tspan3091">Jangan lupa olahraga!</tspan></text>
+  </g>
+<!-- Code injected by live-server -->
+<script>
+	// <![CDATA[  <-- For SVG support
+	if ('WebSocket' in window) {
+		(function () {
+			function refreshCSS() {
+				var sheets = [].slice.call(document.getElementsByTagName("link"));
+				var head = document.getElementsByTagName("head")[0];
+				for (var i = 0; i < sheets.length; ++i) {
+					var elem = sheets[i];
+					var parent = elem.parentElement || head;
+					parent.removeChild(elem);
+					var rel = elem.rel;
+					if (elem.href && typeof rel != "string" || rel.length == 0 || rel.toLowerCase() == "stylesheet") {
+						var url = elem.href.replace(/(&|\?)_cacheOverride=\d+/, '');
+						elem.href = url + (url.indexOf('?') >= 0 ? '&' : '?') + '_cacheOverride=' + (new Date().valueOf());
+					}
+					parent.appendChild(elem);
+				}
+			}
+			var protocol = window.location.protocol === 'http:' ? 'ws://' : 'wss://';
+			var address = protocol + window.location.host + window.location.pathname + '/ws';
+			var socket = new WebSocket(address);
+			socket.onmessage = function (msg) {
+				if (msg.data == 'reload') window.location.reload();
+				else if (msg.data == 'refreshcss') refreshCSS();
+			};
+			if (sessionStorage && !sessionStorage.getItem('IsThisFirstTime_Log_From_LiveServer')) {
+				console.log('Live reload enabled.');
+				sessionStorage.setItem('IsThisFirstTime_Log_From_LiveServer', true);
+			}
+		})();
+	}
+	else {
+		console.error('Upgrade your browser. This Browser is NOT supported WebSocket for Live-Reloading.');
+	}
+	// ]]>
+</script>
+</svg>
